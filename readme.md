@@ -52,4 +52,9 @@ docker run -it --rm \
   mario-threading
 
 ```
+# Tercer punto (Gesto manos)
+
+
+
+#
 
