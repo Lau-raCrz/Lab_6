@@ -83,15 +83,14 @@ En el sistema tambien se tubieron encuenta mecanismos de sincronizacion que cump
 
 El sistema reconoce automáticamente los siguientes gestos predeterminados del modelo de MediaPipe:
 
-Descripción en español
-Pulgar arriba 👍
-Pulgar abajo 👎
-Victoria ✌️
-Puño cerrado ✊
-Palma abierta ✋
-Apuntando arriba ☝️
-Te amo 🤟
-Ninguno (sin gesto detectado)
+- Pulgar arriba 👍
+- Pulgar abajo 👎
+- Victoria ✌️
+- Puño cerrado ✊
+- Palma abierta ✋
+- Apuntando arriba ☝️
+- Te amo 🤟
+- Ninguno (sin gesto detectado)
 
 ## Ejecución en Docker
 Con nuestro archivo dockerfile ya creado lo que se hace es crear la imagen de la siguiente manera:
